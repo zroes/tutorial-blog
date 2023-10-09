@@ -104,3 +104,7 @@ h1 {
   margin-bottom: 10px;
   background-color: #ff9776;
 }
+
+html {
+  background-color: rgb(211, 205, 223);
+}
